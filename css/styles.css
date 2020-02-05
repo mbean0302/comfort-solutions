@@ -1,0 +1,93 @@
+/* Login Pop-up */
+
+
+/* Navigation Bar */
+
+#navigation-bar {
+  background-color: #404b69;
+}
+#cs-logo-div {
+  margin: auto 10% auto 5%;
+}
+
+#to-dashboard {
+  color: #c33c33;
+}
+
+#search-box-container {
+  margin:  auto;
+}
+
+#google-search-button {
+  color: #c33c33;
+}
+
+#google-search-button:hover {
+  background-color: #1579c4;
+}
+
+.nav-item {
+  text-align: center;
+  margin-right: 5rem;
+}
+.nav-link-color {
+  color: #c33c33;
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.nav-link-color:hover {
+  color: #1579c4;
+  text-decoration-line: none;
+}
+
+/* App Icons */
+
+.app_icon_container {
+  margin-top: 5%;
+  text-align: center;
+}
+
+.app_icon {
+  color: white;
+  margin: 7%;
+  text-align: center;
+}
+
+.app_icon_link {
+  color: #c33c33;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.app_icon_link:hover {
+  color: #1579c4;
+  text-decoration-line: none;
+}
+
+.app_icon_placeholder {
+  opacity: 0;
+}
+
+.footer {
+  margin: 100px auto 0 auto;
+  text-align: center;
+  color: white;
+  font-size: small;
+}
+
+.footer-link {
+  color: #c33c33;
+}
+
+.footer-link:hover {
+  color: #1579c4;
+  text-decoration-line: none;
+}
+
+  /* Overall Styling */
+body {
+  background-color: #283149;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}

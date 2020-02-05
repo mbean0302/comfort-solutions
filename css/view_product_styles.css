@@ -1,0 +1,64 @@
+.container-carousel {
+  margin: 5% auto;
+  width: 50%;
+}
+
+/* Add an extra .carousel parent class to increase specifity
+   avoiding the use of !important flag. */
+.carousel-indicators li {
+  width: 12px;
+  height: 12px;
+  margin: auto 7px;
+  border-radius: 100%;
+  text-align: center;
+  background-color: #1579c4;
+}
+
+.carousel .carousel-indicators .active {
+  background-color: #c33c33;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '▶';
+  font-size: 65px;
+  color: red;
+}
+
+.carousel-control-prev-icon:after {
+  content: ' ◀';
+  font-size: 65px;
+  color: red;
+}
+
+.display-4 {
+  color: #c33c33;
+  text-align: center;
+  margin-top: 5%;
+}
+
+#category, #subcategory {
+  color: white;
+  background-color: #c33c33;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+#category:hover, #subcategory:hover {
+  background-color: #c33c33;
+  color: black;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.category_div, .sub_category_div {
+  padding: 0;
+  margin: auto 3% auto 0;
+}
+.form-container {
+  margin-top: 3.5%;
+  margin-right: 36%;
+}

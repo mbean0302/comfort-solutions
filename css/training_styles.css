@@ -1,0 +1,29 @@
+.dropdown-menu {
+  background-color: #c33c33;
+}
+
+.dropdown-item {
+  background-color: #1579c4;
+  color: white;
+}
+
+.dropdown-item:hover {
+  background-color: #c33c33;
+  color: black;
+}
+
+#header {
+  margin-bottom: 5%;
+}
+
+.container {
+  margin: 3.5% auto;
+}
+
+#last_p_tag {
+margin-bottom: 3.5%;
+}
+
+.embed-responsive {
+
+}

@@ -1,0 +1,20 @@
+.table {
+  text-align: center;
+}
+
+.announcement-container {
+  background-color: #c33c33;
+  margin: 125px auto;
+}
+
+.announcement-table {
+  background-color: #1579c4;
+}
+
+.announcement-link {
+  color: #c33c33;
+}
+
+.announcement-link:hover {
+color: white;
+}

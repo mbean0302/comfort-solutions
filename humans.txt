@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Mark Bean -- Service Manager and IT Enthusiast
+
+# THANKS
+
+    Angela Yu -- Full-Stack Udemy Instructor
+    Rob Merrill -- JS Udemy Instructor
+    Brett Salyer -- Motivational Support / Debugging Assistance
+
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, Bootstrap4
+    Apache Server Configs, jQuery, Modernizr, Normalize.css

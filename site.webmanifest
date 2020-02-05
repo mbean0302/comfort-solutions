@@ -1,0 +1,12 @@
+{
+  "short_name": "CS_App",
+  "name": "Comfort Solutions Web Application",
+  "icons": [{
+    "src": "img/CS_LogoFinal18-1.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#fafafa",
+  "theme_color": "#fafafa"
+}
